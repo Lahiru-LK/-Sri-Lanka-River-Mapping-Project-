@@ -1,11 +1,12 @@
 
 # 🌍 Sri Lanka River Mapping Project
 
-![image](https://github.com/user-attachments/assets/7a06c939-e237-4455-9e87-5fb5c2f9b75c)
-
+https://github.com/user-attachments/assets/6e464aac-d12d-444d-b670-72a4e43963ed
 
 
 This project visualizes the river networks of Sri Lanka using Python and GIS data. It reads shapefiles of river systems and boundary data, processes them using geospatial libraries, and displays them with optional elevation contour lines.
+
+![image](https://github.com/user-attachments/assets/7a06c939-e237-4455-9e87-5fb5c2f9b75c)
 
 ## 📁 Project Structure
 
