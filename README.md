@@ -1,9 +1,9 @@
-Here’s a detailed `README.md` template for your project, covering all the necessary details. It includes instructions, an explanation of the files, and an overview of the libraries used:
+
+# 🌍 Sri Lanka River Mapping Project
 
 ![image](https://github.com/user-attachments/assets/7a06c939-e237-4455-9e87-5fb5c2f9b75c)
 
 
-# 🌍 Sri Lanka River Mapping Project
 
 This project visualizes the river networks of Sri Lanka using Python and GIS data. It reads shapefiles of river systems and boundary data, processes them using geospatial libraries, and displays them with optional elevation contour lines.
 
